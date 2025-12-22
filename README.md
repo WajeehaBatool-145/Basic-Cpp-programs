@@ -11,7 +11,6 @@ Practical examples like banking, shopping, grading, and calculators.
 
 Clean and structured code for easy learning and modification.
 
-Emoji-enhanced README for better readability and appeal. 😎✨
 
 
 ## 📚 Overview of Programs
