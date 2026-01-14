@@ -81,8 +81,30 @@ Generates invoices for selected items from **Electronics, Clothing, or Groceries
 ### Basic Calculator Program
 Performs **addition, subtraction, multiplication, or division** based on user choice. Teaches **switch statements and arithmetic operations**. ➕➖✖️➗
 
-## 📌 Note
+### Factorial Calculator 🧮
+This program calculates the factorial of a number entered by the user. It handles negative numbers by displaying an appropriate message and computes factorials for 0 or positive numbers using a for loop.
 
+### Number Printer 🔢
+This program prints all numbers from 0 up to a user-defined limit. It uses a simple for loop to display each number on a new line.
+
+### Array Length Finder 📏
+This program calculates the length of a predefined array using the sizeof operator. It then displays the total number of elements in the array.
+
+### Array Reverser 🔄
+This program allows the user to input elements into an array and then prints the array in reverse order. It demonstrates dynamic input handling and simple array manipulation.
+
+### Restaurant Billing System 🍽️
+This program simulates a restaurant billing system where users can select menu items and quantities through functions. It calculates the subtotal, tax, service charges, and displays the final bill.
+
+### Pointer Example 🖇️
+This program demonstrates the use of a pointer to access and modify the value of a variable. It shows how changing the value via the pointer affects the original variable.
+
+### Null Pointer Check ❌🖇️
+This program checks whether a pointer is null or points to a valid memory location. It demonstrates safe handling of pointers to avoid undefined behavior.
+
+### Swap Two Numbers Using Pointers 🔁
+This program swaps the values of two numbers using pointers. It demonstrates how pointers can directly manipulate the values of variables in memory.
+## 📌 Note
 These programs are primarily for learning and practice purposes. They help beginners understand C++ fundamentals and build confidence for more advanced projects.
 
 
