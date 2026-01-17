@@ -13,9 +13,9 @@ void checking_number(int num)
 }
 int main()
 {
-	 int num;
+	 int n;
 	cout<<"Enter the number: ";
-	cin>>num;
-	 checking_number(num);
+	cin>>n;
+	 checking_number(n);
 	return 0;
 }
